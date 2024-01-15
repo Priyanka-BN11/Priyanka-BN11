@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanka-BN11
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently practicing React
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me priyankabangalorenagaraja@gmail.com
 
